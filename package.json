@@ -1,0 +1,17 @@
+{
+  "name": "06-web-server",
+  "version": "0.0.1",
+  "description": "Web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Yarklinn Sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
